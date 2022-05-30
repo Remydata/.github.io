@@ -1,15 +1,34 @@
 h1{
 font-size: 30px;
 text-align: center;
-color: #de7471
+color: #EF1313
 }
 
 p{
 font-size: 20px;
 text-align: left;
 font-family: Helvetica, sans-serif;
+color:  #EFA513;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+h2{
+
+color: #EF1313
+}
+
+
 body {
-background-color: #007471;
+background-color: #04208E;
+}
+
+a {color:  #FFFFFF;
+
 }
